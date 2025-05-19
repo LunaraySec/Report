@@ -8,6 +8,7 @@
 
 | Project                   | Time       | Report                                                           | Programming Language      |
 | :--------------------- | :--------- | :------------------------------------------------------------ | :------- |
+| BF Project v2       | Q2 | Private | Solidity |
 | JDistribution       | Q1 | Private | Solidity |
 | JCrossChain Bridge       | Q1 | Private | Solidity |
 | JCrossChain Bridge Frontend      | Q1 | Private | NodeJS |
